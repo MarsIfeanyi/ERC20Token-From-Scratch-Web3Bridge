@@ -1,6 +1,9 @@
-# Building an ERC-20 Token from Scratch @Web3Bridge
+## Creating an ERC-20 Token from Scratch @Web3Bridge
 
-Building an ERC-20 Token from Scratch using the Ethereum Improvement Proposal 20 (EIP-20). [EIP-20](https://eips.ethereum.org/EIPS/eip-20) gives us the standard for Token Creation, hence the name Token Standard.
+How to create an ERC-20 Token from Scratch using the official documentation
+on Ethereum Improvement Proposals,[EIP's](https://eips.ethereum.org/all).
+
+[EIP-20](https://eips.ethereum.org/EIPS/eip-20) gave us the standard for Token Creation, hence the name "Token Standard" and token created using this standard are known as ERC-20 Tokens (Ethereum Request for Comment).
 
 In the course of my training at [Web3Bridge](https://www.web3bridge.com/) as a Blockchain Developer Intern, we were taught about the EIP-20(ERC-20): Token Standard, and we reviewed the standard using the official documentation [here](https://eips.ethereum.org/EIPS/eip-20) and built our Token.
 
