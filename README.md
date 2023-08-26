@@ -1,6 +1,6 @@
 ## Creating an ERC-20 Token from Scratch @Web3Bridge
 
-How to create an ERC-20 Token from Scratch using the official documentation
+This is how to create an ERC-20 Token from Scratch using the official documentation
 on Ethereum Improvement Proposals,[EIP's](https://eips.ethereum.org/all).
 
 [EIP-20](https://eips.ethereum.org/EIPS/eip-20) gave us the standard for Token Creation, hence the name "Token Standard" and token created using this standard are known as ERC-20 Tokens (Ethereum Request for Comment).
@@ -16,6 +16,14 @@ I further did my research and built my own token using the EIP-20 Token Standard
 - Line by Line Explanation of the Codebase of the Built ERC-20 Token
 
 - Deploying, Testing the ERC-20 Token with Remix IDE
+
+## Disclaimer
+
+The code in this codebase is not audited yet and hence should be used for practice and educational purposes only, DO NOT USE IT FOR PRODUCTION.
+
+For production ready code, you can use some already audited libraries like [OpenZeppelin](https://www.openzeppelin.com/contracts) or [Solmate](https://github.com/transmissions11/solmate)
+
+- Video on how to create an ERC-20 Token using OpenZeppelin
 
 ## Contributing
 
