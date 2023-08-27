@@ -12,10 +12,13 @@ I further did my research and built my own token using the EIP-20 Token Standard
 ## Video Walkthrough
 
 - Building an ERC-20 Token from Scratch
+  https://youtu.be/E9e1pX5B0ng?si=09Y4skKIR5Wqb9Br
 
 - Line by Line Explanation of the Codebase of the Built ERC-20 Token
+  https://youtu.be/fhJRHtkM7-E?si=LGaPSyrvNM8ml_o4
 
 - Deploying, Testing the ERC-20 Token with Remix IDE
+  https://youtu.be/0ww7ssaGCOs?si=PL6nS_hng_F1G2Zm
 
 ## Disclaimer
 
@@ -23,7 +26,8 @@ The code in this codebase is not audited yet and hence should be used for practi
 
 For production ready code, you can use some already audited libraries like [OpenZeppelin](https://www.openzeppelin.com/contracts) or [Solmate](https://github.com/transmissions11/solmate)
 
-- Video on how to create an ERC-20 Token using OpenZeppelin
+- Video on how to create an ERC-20 Token using OpenZeppelin Contracts
+  https://youtu.be/AHFEU6YTWTk
 
 ## Contributing
 
