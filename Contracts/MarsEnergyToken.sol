@@ -200,7 +200,7 @@ contract MarsEnergyToken {
     function allowance(
         address owner,
         address spender
-    ) public view returns (uint256 remaining) {
+    ) public view returns (uint256) {
         return allowances[owner][spender];
     }
 
